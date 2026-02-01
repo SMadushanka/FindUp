@@ -46,7 +46,7 @@ FindUp is a **mobile application** that helps users **report, track, and find lo
 | ![Lost Items](screenshots/lostItems.png) | ![Add Lost Item](screenshots/addLostItem.png) | ![Found Item](screenshots/foundItem.png) | ![Add Found Item](screenshots/addFoundItem.png) |
 
 ---
-jbhbj
+
 ## Installation & Setup ⚙️
 
 ### Prerequisites
