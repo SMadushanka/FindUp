@@ -1,7 +1,7 @@
 import { Platform } from "react-native";
 
-const CLOUD_NAME = "dwvuwedzn";
-const UPLOAD_PRESET = "unsigned_preset"; // must be unsigned
+const CLOUD_NAME = "douadkbqx";
+const UPLOAD_PRESET = "uploadset"; // must be unsigned
 
 export const uploadImagesToCloudinary = async (uris: string[]): Promise<string[]> => {
   const uploadedUrls: string[] = [];
