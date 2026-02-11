@@ -139,7 +139,7 @@ const HomeScreen = () => {
       <View className="bg-white px-6 pt-12 pb-6">
         <View className="flex-row justify-between items-center mb-6">
           <View>
-            <Text className="text-3xl font-bold text-gray-800">PickMeUp</Text>
+            <Text className="text-3xl font-bold text-gray-800">FindUp</Text>
             <Text className="text-gray-600">Lost & Found Community</Text>
           </View>
           {user && (

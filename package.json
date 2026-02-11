@@ -1,5 +1,5 @@
 {
-  "name": "pickmeup_lostfoundapp",
+  "name": "FindUp_lostfoundapp",
   "main": "expo-router/entry",
   "version": "1.0.0",
   "scripts": {
@@ -24,6 +24,7 @@
     "expo": "^54.0.0",
     "expo-auth-session": "~7.0.8",
     "expo-blur": "~15.0.7",
+    "expo-build-properties": "~1.0.10",
     "expo-constants": "~18.0.8",
     "expo-font": "~14.0.8",
     "expo-haptics": "~15.0.7",

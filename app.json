@@ -1,49 +1,24 @@
 {
   "expo": {
-    "name": "pickmeup_lostfoundApp",
-    "slug": "pickmeup_lostfoundApp",
-    "version": "1.0.0",
-    "orientation": "portrait",
-    "icon": "./assets/images/pickmeUp.png",
-    "scheme": "pickmeuplostfoundapp",
-    "userInterfaceStyle": "automatic",
-    "newArchEnabled": true,
-    "ios": {
-      "supportsTablet": true
+    "extra": {
+      "eas": {
+        "projectId": "84c7f42b-1b94-4372-8977-4a2a75ec6b6f"
+      }
     },
+    "owner": "sampath22",
     "android": {
-      "adaptiveIcon": {
-        "foregroundImage": "./assets/images/adaptive-icon.png",
-        "backgroundColor": "#ffffff"
-      },
-      "edgeToEdgeEnabled": true,
-      "package": "com.chamithdilhara41.pickmeup_lostfoundApp"
-    },
-    "web": {
-      "bundler": "metro",
-      "output": "static",
-      "favicon": "./assets/images/favicon.png"
+      "package": "com.sampath22.findup_lostfoundapp"
     },
     "plugins": [
-      "expo-router",
       [
-        "expo-splash-screen",
+        "expo-build-properties",
         {
-          "image": "./assets/images/splash-icon.png",
-          "imageWidth": 200,
-          "resizeMode": "contain",
-          "backgroundColor": "#ffffff"
+          "android": {
+            "javaVersion": 17,
+            "kotlinVersion": "1.9.24"
+          }
         }
       ]
-    ],
-    "experiments": {
-      "typedRoutes": true
-    },
-    "extra": {
-      "router": {},
-      "eas": {
-        "projectId": "91e86ad0-4a06-4d52-b56a-2533dd1807ea"
-      }
-    }
+    ]
   }
 }
