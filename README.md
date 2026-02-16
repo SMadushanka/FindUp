@@ -39,7 +39,7 @@ FindUp is a **mobile application** that helps users **report, track, and find lo
 
 | Home Screen | Login Screen | Register Screen | Profile Screen |
 |------------|--------------|----------------|----------------|
-| ![Home](screenshots/home.png) | ![Login](screenshots/login.png) | ![Register](screenshots/register.png) | ![Profile](screenshots/profile.png) |
+| ![Home](screenshots/home.png.jpeg) | ![Login](screenshots/login.jpeg) | ![Register](screenshots/register.jpeg) | ![Profile](screenshots/profile.jpeg) |
 
 | Lost Items | Add Lost Item | Found Item | Add Found Item |
 |------------|----------------|------------|----------------|
