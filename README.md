@@ -4,32 +4,32 @@
 [![React Native](https://img.shields.io/badge/React_Native-v0.71-blue)](https://reactnative.dev/)
 [![Expo](https://img.shields.io/badge/Expo-v49.0.0-green)](https://expo.dev/)
 
-FindUp is a **mobile application** that helps users **report, track, and find lost or found items** in their local area. It uses **location-based matching**, **Firebase Authentication**, and **Firestore** to provide a seamless lost & found experience.  
+FindUp is a **mobile application** that helps users **report, track, and find lost or found items** in their local area. It uses **location-based matching**, **Firebase Authentication**, and **Firestore** to provide a seamless lost & found experience.
 
 ---
 
 ## Table of Contents 📖
 
-- [Features](#features-✨)  
-- [Screenshots](#screenshots-📷)  
-- [Demo GIF](#demo-gif-🎬)  
-- [Installation & Setup](#installation--setup-⚙️)  
-- [Usage](#usage-🛠️)  
-- [Tech Stack](#tech-stack-🧰)  
-- [Project Structure](#project-structure-📂)  
-- [Contributing](#contributing-🤝)  
-- [Resources](#resources-📚)  
-- [License](#license-📝)  
-- [Community & Support](#community--support-💬)  
+- [Features](#features-✨)
+- [Screenshots](#screenshots-📷)
+- [Demo GIF](#demo-gif-🎬)
+- [Installation & Setup](#installation--setup-⚙️)
+- [Usage](#usage-🛠️)
+- [Tech Stack](#tech-stack-🧰)
+- [Project Structure](#project-structure-📂)
+- [Contributing](#contributing-🤝)
+- [Resources](#resources-📚)
+- [License](#license-📝)
+- [Community & Support](#community--support-💬)
 
 ---
 
 ## Features ✨
 
-- **Report Lost & Found Items** – Upload photos, descriptions, and locations.  
-- **User Profiles** – Track your lost and found items.  
-- **Photo Uploads** – Multiple images stored securely in Firebase.  
-- **Clean UI & Navigation** – Smooth navigation with Expo Router.  
+- **Report Lost & Found Items** – Upload photos, descriptions, and locations.
+- **User Profiles** – Track your lost and found items.
+- **Photo Uploads** – Multiple images stored securely in Firebase.
+- **Clean UI & Navigation** – Smooth navigation with Expo Router.
 
 ---
 
@@ -50,15 +50,15 @@ FindUp is a **mobile application** that helps users **report, track, and find lo
 ## Installation & Setup ⚙️
 
 ### Prerequisites
-- Node.js v16+  
-- npm or yarn  
-- Expo CLI (`npm install -g expo-cli`)  
+- Node.js v16+
+- npm or yarn
+- Expo CLI (`npm install -g expo-cli`)
 
 ### Steps
 
 ```bash
 # Clone the repository
-git clone 
+git clone
 cd Findup-app
 
 # Install dependencies
