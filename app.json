@@ -2,23 +2,11 @@
   "expo": {
     "extra": {
       "eas": {
-        "projectId": "84c7f42b-1b94-4372-8977-4a2a75ec6b6f"
+        "projectId": "898cd70b-66df-4ea4-822f-128f439cbfac"
       }
     },
-    "owner": "sampath22",
     "android": {
       "package": "com.sampath22.findup_lostfoundapp"
-    },
-    "plugins": [
-      [
-        "expo-build-properties",
-        {
-          "android": {
-            "javaVersion": 17,
-            "kotlinVersion": "1.9.24"
-          }
-        }
-      ]
-    ]
+    }
   }
 }
